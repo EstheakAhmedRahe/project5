@@ -1,0 +1,71 @@
+body{
+    background-color: lightblue;
+}
+.xy{
+    text-align: end;
+    padding-top: 8px;
+}
+
+.xy a{
+    margin: 5px;
+    font-size: 16px;
+}
+.xyz{
+    display: none;
+}
+.icon3{
+    font-size: 40px;
+    width: 60px;
+    border-radius: 60px;
+    transition: 3s; 
+}
+.icon3:hover{
+    transform: rotate(360deg);
+}
+.im{
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    transition: 4s;  
+}
+
+.im:hover{
+    transform: rotate(360deg);
+}
+
+.fa-chevron-down{
+    font-size: 25px;
+}
+
+.im3{
+    width: 100%;
+    height: 200px;
+}
+
+.im4{
+    height: 150px;
+}
+
+.wid{
+    height: 170px;
+    padding-top: 10px;
+}
+
+.card1{
+    box-shadow: 7px 7px 7px rgb(53, 53, 66);
+}
+.card1:hover{
+    box-shadow: 8px 8px 8px white;
+}
+.im5{
+    width: 70%;
+    height: 220px;
+    padding-top: 30px;
+}
+
+.im6{
+    width:70%;
+    height: 200px;
+}
+
+
